@@ -1,46 +1,27 @@
-# Getting Started with Create React App
+# Geo Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
+![GEO_animated-reel2-ezgif com-video-to-gif-converter](https://github.com/manos404/geo/assets/152051892/5ecb5287-63b4-4e0d-9f4d-1ff45110ee83)
+ 
+This is a responsive web application built using React and styled-components. It captures user input to provide real-time weather data through a weather API. The application utilizes conditional rendering and employs Lottie JS for animating icons to enhance user experience. The entire project is written in TypeScript for improved code quality, better type safety, and scalability.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Responsive Design: Ensures a seamless experience across devices.
 
-### `npm start`
+User Input: Allows users to input location data to retrieve weather information.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Real-time Data: Fetches live weather data from a weather API.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Conditional Rendering: Dynamically renders content based on user input and weather conditions.
 
-### `npm test`
+Animation: Utilizes Lottie JS for animated icons, making the app visually engaging.
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### React
+#### TypeScript
+##### Styled-Components
+##### CSS
+#### Lottie JS
+#### Weather API (openweathermap.org)
+ 
